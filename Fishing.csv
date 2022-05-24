@@ -1,0 +1,7 @@
+Name,Keeper,Fish,Points if Kept,PointsReleased
+King George Whiting,Y,Y,50,70
+Lost bait,N,N,-10,0
+Small Mulloway (undersize),N,Y,-10,10
+Snapper,Y,Y,30,40
+Large Mullet,Y,Y,20,20
+Seaweed Monster,Y,N,5,-5
